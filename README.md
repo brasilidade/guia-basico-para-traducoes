@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/brasilidade/guia-basico-para-traducoes"><img alt="book with light bulb" src="https://github.com/brasilidade/guia-basico-para-traducoes/blob/main/new-reference-examples_tcm11-270270.jpg"></a></p>
+<p align="center"><a href="https://github.com/brasilidade/guia-basico-para-traducoes"><img alt="book with light bulb" src="https://github.com/brasilidade/guia-basico-para-traducoes/blob/main/imagens/new-reference-examples_tcm11-270270.jpg"></a></p>
 
 # Objetivo
 
